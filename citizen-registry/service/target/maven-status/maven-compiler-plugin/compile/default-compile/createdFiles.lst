@@ -1,0 +1,4 @@
+gr\ekpa\service\CitizenRegistryApplication.class
+gr\ekpa\service\controller\CitizenController.class
+gr\ekpa\service\service\CitizenService.class
+gr\ekpa\service\repository\CitizenRepository.class
